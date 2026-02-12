@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sonali 👋
+### Aspiring Data Scientist | Data Analytics | Power BI | SQL | Python
 
-<!--
-**sonaliteli28/sonaliteli28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about turning raw data into actionable insights that support smarter business decisions.  
+Skilled in SQL, Python, Power BI, Tableau, and Excel with hands-on experience in data cleaning, analysis, and interactive dashboard development.
 
-Here are some ideas to get you started:
+I enjoy working with real-world datasets, identifying trends, and building data-driven solutions. Currently expanding my skills in Machine Learning and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+**Languages:** Python, SQL  
+**BI Tools:** Power BI (DAX, Power Query, Data Modeling), Tableau  
+**Data:** Excel, EDA, Data Cleaning, Visualization, Reporting  
+**Concepts:** Statistics, Dashboards, Problem Solving, Analytics
+
+---
+
+## 📊 Featured Projects
+
+### 🚦 Road Accident Analysis Dashboard
+Analyzed accident trends, severity, and high-risk zones using Excel and Power BI. Built interactive dashboards with DAX measures and Power Query transformations to uncover actionable safety insights.  
+👉 [View Project](https://github.com/sonaliteli28/Road-Accident-Analysis)
+
+### 🍕 Pizza Sales Analysis Dashboard
+Performed sales analysis to track revenue, customer behavior, and product performance. Developed Power BI dashboards to monitor KPIs and identify top-selling items and sales trends.  
+👉 [View Project](https://github.com/sonaliteli28/Pizza_sales_analysis)
+
+---
+
+## 📫 Connect with me
+🔗 LinkedIn: (https://www.linkedin.com/in/sonali-teli-342858193/)
+
+⭐ Open to Data Science & Analytics opportunities
