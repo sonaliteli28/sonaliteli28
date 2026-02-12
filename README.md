@@ -23,7 +23,7 @@ Analyzed accident trends, severity, and high-risk zones using Excel and Power BI
 👉 [View Project](https://github.com/sonaliteli28/Road-Accident-Analysis)
 
 ### 🍕 Pizza Sales Analysis Dashboard
-Performed sales analysis to track revenue, customer behavior, and product performance. Developed Power BI dashboards to monitor KPIs and identify top-selling items and sales trends.  
+Performed end-to-end sales data analysis using Python to track revenue, customer behavior, and product performance. Conducted exploratory data analysis and built visualizations to uncover trends and support data-driven decisions 
 👉 [View Project](https://github.com/sonaliteli28/Pizza_sales_analysis)
 
 ---
