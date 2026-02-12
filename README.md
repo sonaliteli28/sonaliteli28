@@ -20,10 +20,12 @@ I enjoy working with real-world datasets, identifying trends, and building data-
 
 ### 🚦 Road Accident Analysis Dashboard
 Analyzed accident trends, severity, and high-risk zones using Excel and Power BI. Built interactive dashboards with DAX measures and Power Query transformations to uncover actionable safety insights.  
+
 👉 [View Project](https://github.com/sonaliteli28/Road-Accident-Analysis)
 
 ### 🍕 Pizza Sales Analysis Dashboard
-Performed end-to-end sales data analysis using Python to track revenue, customer behavior, and product performance. Conducted exploratory data analysis and built visualizations to uncover trends and support data-driven decisions 
+Performed end-to-end sales data analysis using Python to track revenue, customer behavior, and product performance. Conducted exploratory data analysis and built visualizations to uncover trends and support data-driven decisions.
+
 👉 [View Project](https://github.com/sonaliteli28/Pizza_sales_analysis)
 
 ---
