@@ -33,4 +33,4 @@ Performed end-to-end sales data analysis using Python to track revenue, customer
 ## 📫 Connect with me
 🔗 LinkedIn: [Sonali Teli](https://www.linkedin.com/in/sonali-teli-342858193/)
 
-⭐ Open to Data Science & Analytics opportunities
+⭐ Open to Data Science & Analytics , Software development opportunities
